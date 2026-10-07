@@ -17,29 +17,22 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 # TV Series
 
 
-## Junkyard Wars - Discovery Channel
+## Junkyard Wars & Mythbusters - Discovery Channel
 
-<img src="./images/junkyardwars.png" alt="Junkyard Wars" width="300">
+<img src="./images/junkyardwars.png" alt="Junkyard Wars" width="300"> <img src="./images/mythbusters.png" alt="MythBusters" width="300">
 
-**Hosts:** Cathy Rogers, Tyler Harcott, Robert Llewellyn  
-**Network:** Discovery Channel  
-![Engineering](https://img.shields.io/badge/Engineering-purple)
-![Invention](https://img.shields.io/badge/Invention-blue)
-![Scrap Metal](https://img.shields.io/badge/Scrap%20Metal-green)
-![Competition](https://img.shields.io/badge/Competition-orange)
-![Mechanics](https://img.shields.io/badge/Mechanics-red)
-
-## MythBusters - Discovery Channel
-
-<img src="./images/mythbusters.png" alt="MythBusters" width="300">
-
-**Hosts:** Adam Savage, Jamie Hyneman  
+**Hosts:** Cathy Rogers, Tyler Harcott, Robert Llewellyn | Adam Savage, Jamie Hyneman 
 **Network:** Discovery Channel  
 ![Science](https://img.shields.io/badge/Science-purple)
+![Engineering](https://img.shields.io/badge/Engineering-purple)
 ![Special Effects](https://img.shields.io/badge/Special%20Effects-blue)
+![Invention](https://img.shields.io/badge/Invention-blue)
+![Scrap Metal](https://img.shields.io/badge/Scrap%20Metal-green)   
 ![Urban Legends](https://img.shields.io/badge/Urban%20Legends-green)
+![Competition](https://img.shields.io/badge/Competition-orange)
 ![Explosions](https://img.shields.io/badge/Explosions-orange)
 ![Physics](https://img.shields.io/badge/Physics-red)
+![Mechanics](https://img.shields.io/badge/Mechanics-red)
 
 ## Seconds from Disaster - National Geographic Channel
 
@@ -55,56 +48,20 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## Air Crash Investigation, Tenerife - National Geographic Channel
 
-<img src="./images/aircrashinvestigation-tenerife.png" alt="Air Crash Investigation - Tenerife Airport Disaster" width="300">
+<img src="./images/aircrashinvestigation-tenerife.png" alt="Air Crash Investigation - Tenerife Airport Disaster" width="250"> <img src="./images/aircrashinvestigation-KAL801.png" alt="Air Crash Investigation - Korean Air Flight 801" width="250"> <img src="./images/aircrashinvestigation-jal123v2.png" alt="Air Crash Investigation - Japan Air Lines Flight 123" width="250">
 
-**Narrator:** Jonathan Aris  
+**Narrator:** Jonathan Aris   
 **Network:** National Geographic Channel  
 
-![Aviation Safety](https://img.shields.io/badge/Aviation%20Safety-purple)
-![Investigation](https://img.shields.io/badge/Investigation-blue)
-![Black Box Analysis](https://img.shields.io/badge/Black%20Box%20Analysis-green)
-![Forensics](https://img.shields.io/badge/Forensics-orange)
-![Reconstruction](https://img.shields.io/badge/Reconstruction-red)   
-![Communication Failure](https://img.shields.io/badge/Communication%20Failure-critical)
-![Assumption Cascade](https://img.shields.io/badge/Assumption%20Cascade-darkred)
 ![Training / School Syndrome](https://img.shields.io/badge/Training%20%2F%20School%20Syndrome-yellow)
-
----
-
-## Air Crash Investigation, KAL 801 - National Geographic Channel
-
-<img src="./images/aircrashinvestigation-KAL801.png" alt="Air Crash Investigation - Korean Air Flight 801" width="300">
-
-**Narrator:** Jonathan Aris   
-**Network:** National Geographic Channel  
-
-![Aviation Safety](https://img.shields.io/badge/Aviation%20Safety-purple)
-![Investigation](https://img.shields.io/badge/Investigation-blue)
-![Black Box Analysis](https://img.shields.io/badge/Black%20Box%20Analysis-green)
-![Forensics](https://img.shields.io/badge/Forensics-orange)
-![Reconstruction](https://img.shields.io/badge/Reconstruction-red)   
-![Authority Gradient](https://img.shields.io/badge/Authority%20Gradient-critical)
-![Seniority Culture](https://img.shields.io/badge/Seniority%20Culture-darkred)
 ![Failure to Challenge](https://img.shields.io/badge/Failure%20to%20Challenge-yellow)
-
----
-
-## Air Crash Investigation, JAL 123 - National Geographic Channel
-
-<img src="./images/aircrashinvestigation-jal123.png" alt="Air Crash Investigation - Japan Air Lines Flight 123" width="300">
-
-**Narrator:** Jonathan Aris   
-**Network:** National Geographic Channel  
-
-![Aviation Safety](https://img.shields.io/badge/Aviation%20Safety-purple)
-![Investigation](https://img.shields.io/badge/Investigation-blue)
-![Black Box Analysis](https://img.shields.io/badge/Black%20Box%20Analysis-green)
-![Forensics](https://img.shields.io/badge/Forensics-orange)
-![Reconstruction](https://img.shields.io/badge/Reconstruction-red)   
-![Structural Failure](https://img.shields.io/badge/Structural%20Failure-critical)
-![Hydraulic Failure](https://img.shields.io/badge/Hydraulic%20Failure-darkred)
 ![Crew Heroism](https://img.shields.io/badge/Crew%20Heroism-yellow)
+![Communication Failure](https://img.shields.io/badge/Communication%20Failure-critical)
+![Authority Gradient](https://img.shields.io/badge/Authority%20Gradient-critical)
+![Assumption Cascade](https://img.shields.io/badge/Assumption%20Cascade-darkred)
+![Seniority Culture](https://img.shields.io/badge/Seniority%20Culture-darkred)
 ![People Dying so Politicians can 'Save Face'](https://img.shields.io/badge/People%20Dying%20So%20Politicians%20Can%20Save%20Face-pink)
+
 ---
 
 # Books
@@ -121,88 +78,56 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 ![Big Data](https://img.shields.io/badge/Big%20Data-orange)
 ![Pipeline Design](https://img.shields.io/badge/Pipeline%20Design-red)
 
-## The 30 Day MBA (Master in Business Administration) - by Colin Barrow
+## The 30 Day MBA (Master in Business Administration) - by Colin Barrow, Create A Secondary Income Stream - by Chua I-Min
 
-<img src="./images/the-30-day-mba.jpg" alt="Fundamentals of Data Engineering" width="300">
+<img src="./images/the-30-day-mba.jpg" alt="Fundamentals of Data Engineering" height="420"> <img src="./images/create-a-secondary-income-stream.jpg" alt="Fundamentals of Data Engineering" height="420">
 
-**Author:** Colin Barrow  
-**Publisher:** Kohan Page  
+**Author:** Colin Barrow, Chua I-Min   
+**Publisher:** Kohan Page, The Singapore Stock Exchange (SGX), Temasek Holding and GIC   
 ![Business Strategy](https://img.shields.io/badge/Business%20Strategy-blue)
+![Personal Finance](https://img.shields.io/badge/Personal%20Finance-blue)
 ![Finance](https://img.shields.io/badge/Finance-green)
+![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-green)
 ![Marketing](https://img.shields.io/badge/Marketing-orange)
 ![Leadership](https://img.shields.io/badge/Leadership-purple)
-![Management](https://img.shields.io/badge/Management-red)
-
-## Create A Secondary Income Stream - by Chua I-Min
-
-<img src="./images/create-a-secondary-income-stream.jpg" alt="Fundamentals of Data Engineering" width="300">
-
-**Author:** Chua I-Min  
-**Coutesy of:** The Singapore Stock Exchange (SGX), Temasek Holding and GIC  
-![Personal Finance](https://img.shields.io/badge/Personal%20Finance-blue)
-![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-green)
-![Side Hustle](https://img.shields.io/badge/Side%20Hustle-orange)
 ![Investment](https://img.shields.io/badge/Investment-purple)
+![Management](https://img.shields.io/badge/Management-red)
 ![Wealth Building](https://img.shields.io/badge/Wealth%20Building-red)
 
 ---
 
-## Digital Fortress - by Dan Brown
+## Digital Fortress - by Dan Brown, The Templar Legacy - by Steve Berry
 
-<img src="./images/digital-fortress.png" alt="Digital Fortress" width="300">
+<img src="./images/digital-fortress.png" alt="Digital Fortress" height="420"> <img src="./images/the-templar-legacy.jpg" alt="The Templar Legacy" height="420">
 
-**Author:** Dan Brown  
-**Publisher:** St. Martin's Press  
+**Author:** Dan Brown, Steve Berry
+**Publisher:** St. Martin's Press, Ballantine Books   
 ![Thriller](https://img.shields.io/badge/Thriller-red)
 ![Tech Fiction](https://img.shields.io/badge/Tech%20Fiction-green)
+![Historical Fiction](https://img.shields.io/badge/Historical%20Fiction-blue)
 ![Cryptography](https://img.shields.io/badge/Cryptography-blue)
 ![Suspense](https://img.shields.io/badge/Suspense-purple)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-orange)
-
----
-
-## The Templar Legacy - by Steve Berry
-
-<img src="./images/the-templar-legacy.jpg" alt="The Templar Legacy" width="300">
-
-**Author:** Steve Berry  
-**Publisher:** Ballantine Books  
-![Thriller](https://img.shields.io/badge/Thriller-red)
-![Historical Fiction](https://img.shields.io/badge/Historical%20Fiction-blue)
 ![Mystery](https://img.shields.io/badge/Mystery-purple)
 ![Adventure](https://img.shields.io/badge/Adventure-orange)
 
 ---
 
-## The Art of War - by Sun Tzu
+## The Art of War - by Sun Tzu, Tao Te Ching - by Lau Tzu
 
-<img src="./images/art-of-war-capstone.jpg" alt="Fundamentals of Data Engineering" width="300">
+<img src="./images/art-of-war-capstone.jpg" alt="Fundamentals of Data Engineering" width="300"> <img src="./images/tao-te-ching-capstone.jpg" alt="Fundamentals of Data Engineering" width="300">
 
-**Author:** Sun Tzu  
+**Author:** Sun Tzu, Lao Tzu
 **Edition:** Capstone Classics  
 **Introduction:** Tom Butler-Bowdon  
 ![Strategy](https://img.shields.io/badge/Strategy-blue)
+![Wisdom](https://img.shields.io/badge/Wisdom-blue)
 ![Military History](https://img.shields.io/badge/Military%20History-gray)
 ![Leadership](https://img.shields.io/badge/Leadership-purple)
+![Spirituality](https://img.shields.io/badge/Spirituality-purple)
 ![Philosophy](https://img.shields.io/badge/Philosophy-green)
 ![Tactics](https://img.shields.io/badge/Tactics-orange)
-
-
-
----
-
-## Tao Te Ching - by Lau Tzu
-
-<img src="./images/tao-te-ching-capstone.jpg" alt="Fundamentals of Data Engineering" width="300">
-
-**Author:** Lao Tzu  
-**Edition:** Capstone Classics  
-**Introduction:** Tom Butler-Bowdon  
-![Philosophy](https://img.shields.io/badge/Philosophy-green)
-![Wisdom](https://img.shields.io/badge/Wisdom-blue)
-![Spirituality](https://img.shields.io/badge/Spirituality-purple)
 ![Daoism](https://img.shields.io/badge/Daoism-orange)
-![Classics](https://img.shields.io/badge/Classics-gray)
 
 ---
 
