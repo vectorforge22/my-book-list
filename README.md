@@ -19,7 +19,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## Junkyard Wars & Mythbusters - Discovery Channel
 
-<img src="./images/junkyardwars.png" alt="Junkyard Wars" width="300"> <img src="./images/mythbusters.png" alt="MythBusters" width="300">
+<img src="./images/junkyardwars.png" alt="Junkyard Wars" height="250"> <img src="./images/mythbusters.png" alt="MythBusters" height="250">
 
 **Hosts:** Cathy Rogers, Tyler Harcott, Robert Llewellyn | Adam Savage, Jamie Hyneman 
 **Network:** Discovery Channel  
@@ -36,7 +36,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## Seconds from Disaster - National Geographic Channel
 
-<img src="./images/secondsfromdisaster.png" alt="Seconds from Disaster" width="300">
+<img src="./images/secondsfromdisaster.png" alt="Seconds from Disaster" height="250">
 
 **Narrator:** Richard Clay  
 **Network:** National Geographic Channel  
