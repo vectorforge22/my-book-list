@@ -149,7 +149,11 @@ I am not a Communist and Marxism is NOT Communism.
 
 The term and in itself 'Marxism' is a way to explain and describe economic phenomena the same way that 'General Relativity' or the 'Standard Model' is 'one' way of describing things that happen in physics. 
 
-And Communism is not the counter-term to Capitalism either. It is Monopolies vs Communism, and Marxism vs Capitalism. Monopolies to Capitalism, is what Communism is to Marxism.
+And Communism is not the counter-term to Capitalism either. It is Monopolies vs Communism, and Marxism vs Capitalism. Monopolies to Capitalism, is what Communism is to Marxism. 
+
+'Monopolism' and 'Communism' are the extremes of Capitalism and Marxism respectively. 
+
+(I think I may have just coined 'Monopolism'...)
 
 About Karl Marx himself. He wrote the Communist Manifesto very early in his career, think 29 year old activist writing all sorts of weird stuff. 
 
