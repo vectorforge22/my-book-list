@@ -131,6 +131,38 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ---
 
+## Grundrisse - by Karl Marx
+
+<img src="./images/grundrisse-karl-marx.jpg" alt="Grundrisse by Karl Marx" width="300"> 
+
+**Author:** Karl Marx  
+![Political Economy](https://img.shields.io/badge/Political%20Economy-blue)
+![Economic Theory](https://img.shields.io/badge/Economic%20Theory-blue)
+![Capitalism](https://img.shields.io/badge/Capitalism-gray)
+![Labor and Value](https://img.shields.io/badge/Labor%20%26%20Value-purple)
+![Production and Exchange](https://img.shields.io/badge/Production%20%26%20Exchange-purple)
+![Historical Materialism](https://img.shields.io/badge/Historical%20Materialism-green)
+![Dialectics](https://img.shields.io/badge/Dialectics-orange)
+![Philosophy](https://img.shields.io/badge/Philosophy-orange)
+
+I am not a Communist and Marxism is NOT Communism. 
+
+The term and in itself 'Marxism' is a way to explain and describe economic phenomena the same way that 'General Relativity' or the 'Standard Model' is 'one' way of describing things that happen in physics. 
+
+And Communism is not the counter-term to Capitalism either. It is Monopolies vs Communism, and Marxism vs Capitalism. Monopolies to Capitalism, is what Communism is to Marxism.
+
+About Karl Marx himself. He wrote the Communist Manifesto very early in his career, think 29 year old activist writing all sorts of weird stuff. 
+
+He wrote Das Capital, and it's unpublished draft 'Grundrisse' in when he was 39-49 years old, decades later while the rest of his life in the UK. 
+
+In Grundrisse, he predicted and spoke about automations and robots, which was omitted in Das Kapital. Recommended reading even just the chapters on these.
+
+Reading: [Grundrisse: Chapter 13 - The labour process. – Fixed capital. Means of labour. Machine. – Fixed capital. Transposition of powers of labour into powers of capital both in fixed and in circulating capital. – To what extent fixed capital (machine) creates value. – Lauderdale. Machine presupposes a mass of workers.](https://www.marxists.org/archive/marx/works/1857/grundrisse/ch13.htm?)
+
+PS: [ChatGPT's fact-check on my initial draft of the paragraph above.](https://chatgpt.com/share/6ae8b103-3cb8-83ec-9555-2244c2f8e96b)
+
+---
+
 <!--
 
 # Image Guidelines
